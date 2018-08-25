@@ -1,1 +1,1 @@
-# mhacks-website
+# Funny Quote Generator
